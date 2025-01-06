@@ -4,7 +4,7 @@ GitHub ID
 
 Contact
 -------
-eponiatowski@clipper.ens.psl.eu
+esther.poniatowski@ens.psl.eu
 
 Topics
 ------
